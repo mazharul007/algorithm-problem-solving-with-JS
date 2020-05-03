@@ -16,6 +16,7 @@ const fizzBuzz = (number)=>{
         else console.log(i);
     }
 }
+//output
 console.log(fizzBuzz(50));
 
 //solution two
@@ -25,7 +26,7 @@ const fizzBuzz2 = (number)=>{
         console.log(f ? b ? "FizzBuzz" : "Fizz" : b ? "Buzz" : i);
     }
 }
-
+//output
 console.log(fizzBuzz2(50));
 
 
