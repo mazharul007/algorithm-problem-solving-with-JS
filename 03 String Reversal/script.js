@@ -1,5 +1,6 @@
 // --Direction
-//Given a string, return a new string with the reversed order of characters
+/**Given a string,return a new string with the reversed 
+order of characters**/
 // --Examples 
 // reverse('orange') === 'egnaro'
 // reverse('cow') === 'woc'
