@@ -3,8 +3,8 @@
 A palindrome is a word which reads the same backward as forward
 e.g. racecar.**/
 // --Examples 
-// palindrome('orange') === 'egnaro'
-// palindrome('racecar') === 'racecar'
+// isPalindrome('orange') === 'egnaro'
+// isPalindrome('racecar') === 'racecar'
 
 //solution
 let isPalindrome = str=>{
@@ -23,4 +23,3 @@ let isPalindromeTwo = str=>{
         return str === reversedStr;
 }
 console.log(isPalindromeTwo('orange'))
-
